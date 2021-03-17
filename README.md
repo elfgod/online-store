@@ -1,3 +1,23 @@
+## Installations
+
+npm install bootstrap
+npm install font-awesome  
+npm install redux  
+npm install react-redux  
+npm install react-router-dom  
+npm install axios  
+npm install graphql  
+npm install apollo-boost  
+npm install react-apollo  
+npm install -D json-server  
+npm i -D jsonwebtoken  
+npm i express-graphql  
+npm i express  
+npm i faker  
+npm i chokidar  
+npm i npm-run-all  
+npm i connect-history-api-fallback  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
